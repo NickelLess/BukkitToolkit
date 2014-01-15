@@ -1,0 +1,7 @@
+name: BukkitToolkit
+main: com.bukkittoolkit.BukkitToolkit
+version: 1.0
+commands:
+    toolkit:
+        description: The command to access tools in the Bukkit toolkit
+        usage: /toolkit [tool] [arguments]
